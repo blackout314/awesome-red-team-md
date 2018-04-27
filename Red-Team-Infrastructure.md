@@ -1,6 +1,6 @@
 # Red-Team and Infrastructure Assessments
 ----
-[https://github.com/GrayHats/Red-Team-Infrastructure]
+https://github.com/GrayHats/Red-Team-Infrastructure
 
 ## Domain User Enumeration
 
